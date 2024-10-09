@@ -5,9 +5,9 @@
             "poster": "https://img.posterstore.com/zoom/wb0101-8harrypotter-thephilosophersstoneno150x70.jpg",
             "name": "Гарри Поттер и философский камень",
             "year": 2001,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -15,9 +15,9 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BNGJhM2M2MWYtZjIzMC00MDZmLThkY2EtOWViMDhhYjRhMzk4XkEyXkFqcGc@._V1_.jpg",
             "name": "Гарри Поттер и тайная комната",
             "year": 2002,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -25,9 +25,9 @@
             "poster": "https://storage.googleapis.com/pod_public/1300/105075.jpg",
             "name": "Гарри Поттер и узник Азкабана",
             "year": 2004,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -35,9 +35,9 @@
             "poster": "https://m.media-amazon.com/images/I/71opdcUCGjL._AC_UF894,1000_QL80_.jpg",
             "name": "Гарри Поттер и Кубок огня",
             "year": 2005,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -45,9 +45,9 @@
             "poster": "https://m.media-amazon.com/images/I/81mrqTYZzIL.jpg",
             "name": "Гарри Поттер и Орден Феникса",
             "year": 2007,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -55,9 +55,9 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg",
             "name": "Гарри Поттер и Принц-полукровка",
             "year": 2009,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -65,9 +65,9 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_.jpg",
             "name": "Гарри Поттер и Дары Смерти: Часть 1",
             "year": 2010,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -75,9 +75,9 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_.jpg",
             "name": "Гарри Поттер и Дары Смерти: Часть 2",
             "year": 2011,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -85,9 +85,9 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_.jpg",
             "name": "Звездные войны: Эпизод I - Скрытая угроза",
             "year": 1999,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Научная фантастика"
         },
         {
@@ -95,9 +95,9 @@
             "poster": "https://m.media-amazon.com/images/I/61nFfWio-sL._AC_UF894,1000_QL80_.jpg",
             "name": "Звездные войны: Эпизод II - Атака клонов",
             "year": 2002,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Научная фантастика"
         },
         {
@@ -105,9 +105,9 @@
             "poster": "https://m.media-amazon.com/images/I/61jCCwfO6HL._AC_UF894,1000_QL80_.jpg",
             "name": "Звездные войны: Эпизод III - Месть Ситхов",
             "year": 2005,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Научная фантастика"
         },
         {
@@ -115,9 +115,9 @@
             "poster": "https://m.media-amazon.com/images/I/71qvQla2XwL.jpg",
             "name": "Звездные войны: Эпизод IV - Новая надежда",
             "year": 1977,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Научная фантастика"
         },
         {
@@ -125,9 +125,9 @@
             "poster": "https://m.media-amazon.com/images/I/71rgQlCE3WL._AC_UF894,1000_QL80_.jpg",
             "name": "Звездные войны: Эпизод V - Империя наносит ответный удар",
             "year": 1980,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Научная фантастика"
         },
         {
@@ -135,9 +135,9 @@
             "poster": "https://m.media-amazon.com/images/I/61c7U8DqV3L._AC_UF894,1000_QL80_.jpg",
             "name": "Звездные войны: Эпизод VI - Возвращение Джедая",
             "year": 1983,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Научная фантастика"
         },
         {
@@ -145,9 +145,9 @@
             "poster": "https://i.pinimg.com/736x/76/9f/51/769f51d079c66c1a9317b6f5df4859b5.jpg",
             "name": "Хоббит: Нежданное путешествие",
             "year": 2012,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -155,9 +155,9 @@
             "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_.jpg",
             "name": "Хоббит: Пустошь Смауга",
             "year": 2013,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -165,9 +165,9 @@
             "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu9qw93v85_xNfzI1vq-wtkz2BbQUAiTEyrA&s",
             "name": "Хоббит: Битва пяти воинств",
             "year": 2014,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -175,9 +175,9 @@
             "poster": "https://m.media-amazon.com/images/I/81EBp0vOZZL.jpg",
             "name": "Властелин колец: Братство кольца",
             "year": 2001,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -185,9 +185,9 @@
             "poster": "https://www.originalfilmart.com/cdn/shop/files/lord_of_the_rings_the_two_towers_2002_original_film_art_5dd21feb-10ab-41a1-84a1-4c4b082e9626_5000x.webp?v=1705516902",
             "name": "Властелин колец: Две крепости",
             "year": 2002,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         },
         {
@@ -195,9 +195,9 @@
             "poster": "https://cdn.europosters.eu/image/1300/posters/the-lord-of-the-rings-the-return-of-the-king-i104633.jpg",
             "name": "Властелин колец: Возвращение короля",
             "year": 2003,
-            "status": "WATCHED",
-            "isFavorite": true,
-            "rating": 5,
+            "status": "NO_WATCHED",
+            "isFavorite": false,
+            "rating": 0,
             "genre": "Фэнтези"
         }
     ]
