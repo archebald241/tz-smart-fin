@@ -1,0 +1,39 @@
+.card_container {
+    position: relative;
+
+    &:hover {
+        .favorite_icon {
+            display: block;
+        }
+    }
+
+    .favorite_icon {
+        position: absolute;
+        display: none;
+        top: 10px;
+        right: 10px;
+        z-index: 10;
+        cursor: pointer;
+        font-size: 24px;
+        color: rgb(178, 177, 177);
+
+        &_active {
+            color: red;
+            display: block;
+        }
+    }
+
+    &:hover {
+        .favorite_icon {
+            display: block;
+        }
+    }
+
+    .card {
+        width: 300px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        cursor: default;
+    }
+}
