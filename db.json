@@ -6,7 +6,7 @@
             "name": "Гарри Поттер и философский камень",
             "year": 2001,
             "status": "NO_WATCHED",
-            "isFavorite": false,
+            "isFavorite": true,
             "rating": 0,
             "genre": "Фэнтези"
         },
@@ -16,7 +16,7 @@
             "name": "Гарри Поттер и тайная комната",
             "year": 2002,
             "status": "NO_WATCHED",
-            "isFavorite": false,
+            "isFavorite": true,
             "rating": 0,
             "genre": "Фэнтези"
         },
@@ -200,5 +200,15 @@
             "rating": 0,
             "genre": "Фэнтези"
         }
-    ]
+    ],
+    "planning_watch": {
+        "1": {
+            "planed_date": "2024-05-01T12:00:00",
+            "comment": "Хочу посмотреть этот фильм"
+        },
+        "2": {
+            "planed_date": "2024-05-01T13:00:00",
+            "comment": "Хочу посмотреть этот фильм"
+        }
+    }
 }
